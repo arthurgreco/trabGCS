@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "java.compile.nullAnalysis.mode": "automatic"
+=======
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+>>>>>>> 43f3c4d2b7e1c535b332e5120e98a81ec10588d8
 }
